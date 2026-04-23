@@ -2,10 +2,9 @@
 
 # Hi , I'm Vedika Kulthe
 
-### Industrial AI & Edge Computer Vision | Cybersecurity Honors
+### Industrial AI | Edge Computer Vision | Cybersecurity Honors
 **Python, C++, SQL, YOLOv8, TensorRT**
 
-[📂 Download My Full Resume](https://github.com/vedikaakulthe/vedikaakulthe/blob/main/Vedika_Kulthe_Resume_AI&DS.pdf)
+---[My Resume](https://github.com/user-attachments/files/27008184/Vedika_Kulthe_Resume_AI.DS.pdf)
 
----
 </div>
