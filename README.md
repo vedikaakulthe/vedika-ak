@@ -4,6 +4,6 @@
 
 ### Industrial AI | Edge Computer Vision | Cybersecurity Honors
 
-[My Resume](https://github.com/user-attachments/files/27008184/Vedika_Kulthe_Resume_AI.DS.pdf)
+[Resume](https://github.com/user-attachments/files/27036413/Vedika_Kulthe_Resume_AI.DS.pdf)
 
 </div>
